@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.main{
+	background-color: #99aba8;
+	min-height:80vh;
+}
+
+.secondary{
+	background-color: #8d9faa;
+	height: 20vh;
+}
+
+.heading{
+	font-family: 'Source Serif Pro';
+	color: #7e928f;
+	font-weight: 400;
+	font-size: 5em;
+	letter-spacing: -0.02em;
+}
+
+.subhead{
+	font-family: 'Brandon Grotesque';
+	color: #d9dfe2;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	padding-top: 1em;
+}
+
+.parent {
+  position: relative;
+}
+
+.child {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
