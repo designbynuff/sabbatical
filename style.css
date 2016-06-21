@@ -10,7 +10,7 @@
 }
 
 .heading{
-	font-family: 'Source Serif Pro';
+	font-family: 'source-serif-pro', Garamond, serif;
 	color: #7e928f;
 	font-weight: 400;
 	font-size: 5em;
@@ -18,7 +18,7 @@
 }
 
 .subhead{
-	font-family: 'Brandon Grotesque';
+	font-family: 'brandon-grotesque', Helvetica, Arial, sans-serif;
 	color: #d9dfe2;
 	font-weight: 400;
 	text-transform: uppercase;
